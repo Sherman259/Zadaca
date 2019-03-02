@@ -1,0 +1,7 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\obj\Debug\5.3.22. Kalkulator.csprojAssemblyReference.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\obj\Debug\5.3.22. Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\bin\Debug\_5._3._22.Kalkulator.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\bin\Debug\_5._3._22.Kalkulator.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\bin\Debug\_5._3._22.Kalkulator.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\obj\Debug\_5._3._22.Kalkulator.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.22. Kalkulator\obj\Debug\_5._3._22.Kalkulator.pdb

@@ -1,0 +1,6 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\obj\Debug\5.3.14_Neparni brojevi.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\bin\Debug\5.3.14_Neparni brojevi.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\bin\Debug\5.3.14_Neparni brojevi.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\bin\Debug\5.3.14_Neparni brojevi.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\obj\Debug\5.3.14_Neparni brojevi.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.14_Neparni brojevi\obj\Debug\5.3.14_Neparni brojevi.pdb

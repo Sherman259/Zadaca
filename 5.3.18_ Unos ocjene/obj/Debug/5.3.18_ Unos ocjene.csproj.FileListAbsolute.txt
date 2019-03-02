@@ -1,0 +1,6 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\obj\Debug\5.3.18_ Unos ocjene.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\bin\Debug\5.3.18_ Unos ocjene.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\bin\Debug\5.3.18_ Unos ocjene.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\bin\Debug\5.3.18_ Unos ocjene.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\obj\Debug\5.3.18_ Unos ocjene.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.18_ Unos ocjene\obj\Debug\5.3.18_ Unos ocjene.pdb

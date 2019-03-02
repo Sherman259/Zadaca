@@ -1,0 +1,6 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\bin\Debug\5.3.20_Par nepar.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\bin\Debug\5.3.20_Par nepar.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\bin\Debug\5.3.20_Par nepar.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\obj\Debug\5.3.20_Par nepar.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\obj\Debug\5.3.20_Par nepar.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\5.3.20_Par nepar\obj\Debug\5.3.20_Par nepar.pdb
