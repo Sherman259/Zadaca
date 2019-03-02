@@ -1,0 +1,6 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\obj\Debug\Zadatak  5.3.12 _ Suma i prosijek.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\bin\Debug\Zadatak  5.3.12 _ Suma i prosijek.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\bin\Debug\Zadatak  5.3.12 _ Suma i prosijek.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\bin\Debug\Zadatak  5.3.12 _ Suma i prosijek.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\obj\Debug\Zadatak  5.3.12 _ Suma i prosijek.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak  5.3.12 _ Suma i prosijek\obj\Debug\Zadatak  5.3.12 _ Suma i prosijek.pdb

@@ -1,0 +1,7 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\obj\Debug\Zadatak 5.3.10.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\bin\Debug\Zadatak 5.3.10.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\bin\Debug\Zadatak 5.3.10.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\bin\Debug\Zadatak 5.3.10.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\obj\Debug\Zadatak 5.3.10.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\obj\Debug\Zadatak 5.3.10.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.10\obj\Debug\Zadatak 5.3.10.csprojAssemblyReference.cache

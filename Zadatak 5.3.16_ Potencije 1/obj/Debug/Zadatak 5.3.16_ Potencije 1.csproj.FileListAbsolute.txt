@@ -1,0 +1,6 @@
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\bin\Debug\Zadatak 5.3.16_ Potencije 1.exe.config
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\bin\Debug\Zadatak 5.3.16_ Potencije 1.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\bin\Debug\Zadatak 5.3.16_ Potencije 1.pdb
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\obj\Debug\Zadatak 5.3.16_ Potencije 1.csproj.CoreCompileInputs.cache
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\obj\Debug\Zadatak 5.3.16_ Potencije 1.exe
+C:\Users\TIHO\source\repos\Zadaća 5.3.8\Zadatak 5.3.16_ Potencije 1\obj\Debug\Zadatak 5.3.16_ Potencije 1.pdb
